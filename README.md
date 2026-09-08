@@ -237,3 +237,6 @@ This repository serves as the official landing page for SilverStripe. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SilverStripe today!**
+
+---
+**Last updated:** 2026-09-08 15:42:10 UTC
