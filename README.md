@@ -239,4 +239,4 @@ This repository serves as the official landing page for SilverStripe. The softwa
 **Get the most recent version of SilverStripe today!**
 
 ---
-**Last updated:** 2026-09-24 15:31:40 UTC
+**Last updated:** 2026-09-24 19:32:00 UTC
